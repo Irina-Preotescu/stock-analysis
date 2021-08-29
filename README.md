@@ -65,9 +65,12 @@ First, I copied the code from the given README file. Then, I completed the requi
     
  #### Run-Time Pop-Ups and Charts
  ![VBA_Challenge_2017](/Users/irinapreotescu/Desktop/Resources/VBA_Challenge_2017.png)
+ 
  ![VBA Chart 2017](/Users/irinapreotescu/Desktop/Resources/VBA Chart 2017.png) 
  
+ 
  ![VBA_Challenge_2018](/Users/irinapreotescu/Desktop/Resources/VBA_Challenge_2018.png)
+ 
  ![VBA Chart 2018](/Users/irinapreotescu/Desktop/Resources/VBA Chart 2018.png) 
 
 ---
